@@ -1,2 +1,2 @@
-# jinrongc.github.io
-jinrongc's blog
+# jinrongc's blog
+welcome
